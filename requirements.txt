@@ -1,0 +1,12 @@
+streamlit>=1.35
+plotly>=5.22
+pandas>=2.0
+numpy>=1.26
+geopandas>=0.14
+networkx>=3.2
+xgboost>=2.0
+shap>=0.45
+scikit-learn>=1.4
+torch>=2.2
+pyarrow>=15.0
+shapely>=2.0
