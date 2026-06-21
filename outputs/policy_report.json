@@ -1,0 +1,184 @@
+{
+  "simulations": [
+    {
+      "junction": "BTP075 - Police Corner",
+      "restriction_pct": 0.25,
+      "violations_affected": 188,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413175.13,
+      "cis_reduction": 141.45,
+      "congestion_delta_pct": 0.034
+    },
+    {
+      "junction": "BTP075 - Police Corner",
+      "restriction_pct": 0.5,
+      "violations_affected": 188,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413033.68,
+      "cis_reduction": 282.9,
+      "congestion_delta_pct": 0.068
+    },
+    {
+      "junction": "BTP075 - Police Corner",
+      "restriction_pct": 0.75,
+      "violations_affected": 188,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 412892.23,
+      "cis_reduction": 424.35,
+      "congestion_delta_pct": 0.103
+    },
+    {
+      "junction": "BTP075 - Police Corner",
+      "restriction_pct": 1.0,
+      "violations_affected": 188,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 412750.78,
+      "cis_reduction": 565.8,
+      "congestion_delta_pct": 0.137
+    },
+    {
+      "junction": "BTP053 - Three Let Junction",
+      "restriction_pct": 0.25,
+      "violations_affected": 51,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413276.69,
+      "cis_reduction": 39.9,
+      "congestion_delta_pct": 0.01
+    },
+    {
+      "junction": "BTP053 - Three Let Junction",
+      "restriction_pct": 0.5,
+      "violations_affected": 51,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413236.79,
+      "cis_reduction": 79.79,
+      "congestion_delta_pct": 0.019
+    },
+    {
+      "junction": "BTP053 - Three Let Junction",
+      "restriction_pct": 0.75,
+      "violations_affected": 51,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413196.9,
+      "cis_reduction": 119.69,
+      "congestion_delta_pct": 0.029
+    },
+    {
+      "junction": "BTP053 - Three Let Junction",
+      "restriction_pct": 1.0,
+      "violations_affected": 51,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413157.0,
+      "cis_reduction": 159.58,
+      "congestion_delta_pct": 0.039
+    },
+    {
+      "junction": "BTP077 - Halasuru Gate Junction",
+      "restriction_pct": 0.25,
+      "violations_affected": 30,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413295.67,
+      "cis_reduction": 20.91,
+      "congestion_delta_pct": 0.005
+    },
+    {
+      "junction": "BTP077 - Halasuru Gate Junction",
+      "restriction_pct": 0.5,
+      "violations_affected": 30,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413274.76,
+      "cis_reduction": 41.82,
+      "congestion_delta_pct": 0.01
+    },
+    {
+      "junction": "BTP077 - Halasuru Gate Junction",
+      "restriction_pct": 0.75,
+      "violations_affected": 30,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413253.85,
+      "cis_reduction": 62.73,
+      "congestion_delta_pct": 0.015
+    },
+    {
+      "junction": "BTP077 - Halasuru Gate Junction",
+      "restriction_pct": 1.0,
+      "violations_affected": 30,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413232.94,
+      "cis_reduction": 83.64,
+      "congestion_delta_pct": 0.02
+    },
+    {
+      "junction": "BTP156 - Kamakya Junction",
+      "restriction_pct": 0.25,
+      "violations_affected": 13,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413307.31,
+      "cis_reduction": 9.27,
+      "congestion_delta_pct": 0.002
+    },
+    {
+      "junction": "BTP156 - Kamakya Junction",
+      "restriction_pct": 0.5,
+      "violations_affected": 13,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413298.04,
+      "cis_reduction": 18.54,
+      "congestion_delta_pct": 0.004
+    },
+    {
+      "junction": "BTP156 - Kamakya Junction",
+      "restriction_pct": 0.75,
+      "violations_affected": 13,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413288.78,
+      "cis_reduction": 27.81,
+      "congestion_delta_pct": 0.007
+    },
+    {
+      "junction": "BTP156 - Kamakya Junction",
+      "restriction_pct": 1.0,
+      "violations_affected": 13,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413279.51,
+      "cis_reduction": 37.08,
+      "congestion_delta_pct": 0.009
+    },
+    {
+      "junction": "BTP146 - Domlur Water Tank",
+      "restriction_pct": 0.25,
+      "violations_affected": 146,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413225.05,
+      "cis_reduction": 91.53,
+      "congestion_delta_pct": 0.022
+    },
+    {
+      "junction": "BTP146 - Domlur Water Tank",
+      "restriction_pct": 0.5,
+      "violations_affected": 146,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413133.51,
+      "cis_reduction": 183.07,
+      "congestion_delta_pct": 0.044
+    },
+    {
+      "junction": "BTP146 - Domlur Water Tank",
+      "restriction_pct": 0.75,
+      "violations_affected": 146,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 413041.98,
+      "cis_reduction": 274.6,
+      "congestion_delta_pct": 0.066
+    },
+    {
+      "junction": "BTP146 - Domlur Water Tank",
+      "restriction_pct": 1.0,
+      "violations_affected": 146,
+      "baseline_total_cis": 413316.58,
+      "simulated_total_cis": 412950.44,
+      "cis_reduction": 366.14,
+      "congestion_delta_pct": 0.089
+    }
+  ]
+}

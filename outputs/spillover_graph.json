@@ -1,0 +1,2603 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "lat": 13.007811443262298,
+      "lon": 77.55465340067576,
+      "stress": 0.1587,
+      "total_violations": 2812,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP001 - 10th Cross, Dr. Rajkumar Road"
+    },
+    {
+      "lat": 12.990978136170211,
+      "lon": 77.55759593617022,
+      "stress": 0.4123,
+      "total_violations": 47,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP006 - Navarang Bar Junction"
+    },
+    {
+      "lat": 12.998492417815125,
+      "lon": 77.55309264941177,
+      "stress": 0.2027,
+      "total_violations": 1190,
+      "spillover_centrality": 0.0054318341801918545,
+      "id": "BTP008 - Navarang Theatre"
+    },
+    {
+      "lat": 12.992517874427481,
+      "lon": 77.55763266068702,
+      "stress": 0.2754,
+      "total_violations": 262,
+      "spillover_centrality": 0.00613819326177297,
+      "id": "BTP009 - Prakash Nagar Junction"
+    },
+    {
+      "lat": 12.982261563097772,
+      "lon": 77.56008112329171,
+      "stress": 0.0598,
+      "total_violations": 957,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP010 - Rajajinagar Entrance"
+    },
+    {
+      "lat": 12.993694996696341,
+      "lon": 77.55379199356938,
+      "stress": 0.1505,
+      "total_violations": 1208,
+      "spillover_centrality": 0.010284119136702666,
+      "id": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road"
+    },
+    {
+      "lat": 12.98771043883495,
+      "lon": 77.55949917572815,
+      "stress": 0.3763,
+      "total_violations": 103,
+      "spillover_centrality": 0.003918090699134503,
+      "id": "BTP015 - Suguna Hospital, Dr. Rajkumar Road"
+    },
+    {
+      "lat": 12.965246043934675,
+      "lon": 77.5378432820211,
+      "stress": 0.2014,
+      "total_violations": 2474,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP016 - 5th Main Road, RPC Layout"
+    },
+    {
+      "lat": 12.960583327014218,
+      "lon": 77.52963757037915,
+      "stress": 0.2626,
+      "total_violations": 422,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP017 - Attiguppe Circle"
+    },
+    {
+      "lat": 12.98761222696335,
+      "lon": 77.54981949005236,
+      "stress": 0.0521,
+      "total_violations": 382,
+      "spillover_centrality": 0.02654278411906732,
+      "id": "BTP018 - Dhobi Ghat Junction"
+    },
+    {
+      "lat": 12.97414419858571,
+      "lon": 77.54529421309437,
+      "stress": 0.095,
+      "total_violations": 4101,
+      "spillover_centrality": 0.012383991022013825,
+      "id": "BTP020 - Hosahalli Metro Station"
+    },
+    {
+      "lat": 12.968779866920466,
+      "lon": 77.53673460275871,
+      "stress": 0.0857,
+      "total_violations": 1157,
+      "spillover_centrality": 0.00927271165238496,
+      "id": "BTP022 - Marenahalli Junction, Vijayanagar"
+    },
+    {
+      "lat": 13.008974449496067,
+      "lon": 77.54920543394422,
+      "stress": 0.1911,
+      "total_violations": 1807,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP023 - Mahalaxmi Layout Entrance"
+    },
+    {
+      "lat": 12.98291347845193,
+      "lon": 77.54882366500652,
+      "stress": 0.051,
+      "total_violations": 632,
+      "spillover_centrality": 0.025996601586148502,
+      "id": "BTP024 - NPS, Vijayanagar"
+    },
+    {
+      "lat": 12.978674192592594,
+      "lon": 77.53819774074074,
+      "stress": 0.6218,
+      "total_violations": 27,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP025 - Puttamma Choultry, Nagarbhavi"
+    },
+    {
+      "lat": 13.002439084069982,
+      "lon": 77.55009351215469,
+      "stress": 0.2855,
+      "total_violations": 1086,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP026 - 1st Block Junction, Rajajinagar"
+    },
+    {
+      "lat": 12.998897494610551,
+      "lon": 77.54941567682627,
+      "stress": 0.049,
+      "total_violations": 4584,
+      "spillover_centrality": 0.012571236643470138,
+      "id": "BTP027 - Modi Bridge Junction"
+    },
+    {
+      "lat": 12.972568562228885,
+      "lon": 77.53806133053999,
+      "stress": 0.1574,
+      "total_violations": 754,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP028 - Vijayanagar Bus Stand Junction"
+    },
+    {
+      "lat": 13.013624291954024,
+      "lon": 77.58397421839081,
+      "stress": 0.3348,
+      "total_violations": 87,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP030 - Mekhri Circle"
+    },
+    {
+      "lat": 12.99308791268715,
+      "lon": 77.58818366254266,
+      "stress": 0.1318,
+      "total_violations": 2749,
+      "spillover_centrality": 0.005123501837898031,
+      "id": "BTP032 - Windsor Circle"
+    },
+    {
+      "lat": 12.990444546153846,
+      "lon": 77.58866545673077,
+      "stress": 0.1634,
+      "total_violations": 208,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP033 - Sophia High School, Sankey Road"
+    },
+    {
+      "lat": 12.988339276825316,
+      "lon": 77.5917559860704,
+      "stress": 0.1492,
+      "total_violations": 217,
+      "spillover_centrality": 0.007530687684187287,
+      "id": "BTP034 - LRDE Junction"
+    },
+    {
+      "lat": 12.984610472222222,
+      "lon": 77.58816219444445,
+      "stress": 0.569,
+      "total_violations": 36,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP035 - Basaweshwara Circle (LH) Junction"
+    },
+    {
+      "lat": 12.981054290361447,
+      "lon": 77.59432185301205,
+      "stress": 0.3595,
+      "total_violations": 83,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP036 - Police Thimmaiah Circle (GPO)"
+    },
+    {
+      "lat": 12.976534570711298,
+      "lon": 77.58653865523013,
+      "stress": 0.0665,
+      "total_violations": 239,
+      "spillover_centrality": 0.005947234600873391,
+      "id": "BTP037 - KR Circle"
+    },
+    {
+      "lat": 12.973430411726868,
+      "lon": 77.58124380880751,
+      "stress": 0.1507,
+      "total_violations": 2021,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP038 - Mysore Bank Junction"
+    },
+    {
+      "lat": 12.976596713370032,
+      "lon": 77.5766021547117,
+      "stress": 0.096,
+      "total_violations": 10718,
+      "spillover_centrality": 0.007983905855475305,
+      "id": "BTP040 - Elite Junction"
+    },
+    {
+      "lat": 12.977295857671956,
+      "lon": 77.59026518835978,
+      "stress": 0.0923,
+      "total_violations": 378,
+      "spillover_centrality": 0.00458955007846373,
+      "id": "BTP041 - Gopal Gowda Circle"
+    },
+    {
+      "lat": 12.981175736986302,
+      "lon": 77.59845689202544,
+      "stress": 0.0858,
+      "total_violations": 2044,
+      "spillover_centrality": 0.013059365825254557,
+      "id": "BTP042 - Minsk Square Junction (CTO)"
+    },
+    {
+      "lat": 12.971139927984629,
+      "lon": 77.57557195804274,
+      "stress": 0.0285,
+      "total_violations": 1786,
+      "spillover_centrality": 0.013440633106387972,
+      "id": "BTP043 - Upparpet Junction"
+    },
+    {
+      "lat": 12.974938996857006,
+      "lon": 77.57889570478889,
+      "stress": 0.1105,
+      "total_violations": 10549,
+      "spillover_centrality": 0.006352705627987131,
+      "id": "BTP044 - Sagar Theatre Junction"
+    },
+    {
+      "lat": 12.977065128575921,
+      "lon": 77.57478964140208,
+      "stress": 0.0796,
+      "total_violations": 3181,
+      "spillover_centrality": 0.01721469348559039,
+      "id": "BTP045 - Danvanthri Road Junction"
+    },
+    {
+      "lat": 12.979835985,
+      "lon": 77.59251278949999,
+      "stress": 0.0786,
+      "total_violations": 200,
+      "spillover_centrality": 0.00841319543006134,
+      "id": "BTP047 - Vidhan Soudha Metro Station"
+    },
+    {
+      "lat": 12.976960576691845,
+      "lon": 77.57075523407478,
+      "stress": 0.1159,
+      "total_violations": 1593,
+      "spillover_centrality": 0.004010654658763131,
+      "id": "BTP048 - Shanthala Junction"
+    },
+    {
+      "lat": 12.981212065557246,
+      "lon": 77.60869513989651,
+      "stress": 0.0778,
+      "total_violations": 15449,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP051 - Safina Plaza Junction"
+    },
+    {
+      "lat": 12.980863155860892,
+      "lon": 77.58762164743166,
+      "stress": 0.0929,
+      "total_violations": 198,
+      "spillover_centrality": 0.005113744673512221,
+      "id": "BTP052 - CID Carlton House Junction"
+    },
+    {
+      "lat": 12.983894015686275,
+      "lon": 77.58177205098039,
+      "stress": 0.3258,
+      "total_violations": 51,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP053 - Three Let Junction"
+    },
+    {
+      "lat": 12.986267004491276,
+      "lon": 77.57886273319414,
+      "stress": 0.1071,
+      "total_violations": 751,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP054 - Shivananda Circle"
+    },
+    {
+      "lat": 12.979395373087675,
+      "lon": 77.57438830726811,
+      "stress": 0.1435,
+      "total_violations": 3935,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP057 - Anand Rao Junction"
+    },
+    {
+      "lat": 12.979021616597574,
+      "lon": 77.57866101486218,
+      "stress": 0.1178,
+      "total_violations": 5189,
+      "spillover_centrality": 0.004025548053472265,
+      "id": "BTP058 - Subbanna Junction"
+    },
+    {
+      "lat": 12.985184338307276,
+      "lon": 77.55392274871211,
+      "stress": 0.1421,
+      "total_violations": 1030,
+      "spillover_centrality": 0.009445070492982545,
+      "id": "BTP061 - Bhashyam Circle"
+    },
+    {
+      "lat": 12.979911838377566,
+      "lon": 77.5546504141,
+      "stress": 0.1781,
+      "total_violations": 425,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP062 - Basava Mantapa, Dr. Rajkumar Road"
+    },
+    {
+      "lat": 12.971526511981132,
+      "lon": 77.5967034683019,
+      "stress": 0.1082,
+      "total_violations": 1060,
+      "spillover_centrality": 0.004840820058819273,
+      "id": "BTP063 - Siddalingaiah Circle"
+    },
+    {
+      "lat": 12.962732790384617,
+      "lon": 77.58990461057692,
+      "stress": 0.2542,
+      "total_violations": 104,
+      "spillover_centrality": 0.0036996623403816294,
+      "id": "BTP064 - Devanga Hostel Junction"
+    },
+    {
+      "lat": 12.978517780813087,
+      "lon": 77.54273679499191,
+      "stress": 0.122,
+      "total_violations": 409,
+      "spillover_centrality": 0.007335111423631247,
+      "id": "BTP067 - Jai Muni Rao Circle"
+    },
+    {
+      "lat": 12.977227481944444,
+      "lon": 77.54562137718254,
+      "stress": 0.1419,
+      "total_violations": 504,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP068 - Veeresh Theatre Junction"
+    },
+    {
+      "lat": 12.974620575358045,
+      "lon": 77.54751794417268,
+      "stress": 0.1289,
+      "total_violations": 1075,
+      "spillover_centrality": 0.004387546816154891,
+      "id": "BTP069 - MC Circle"
+    },
+    {
+      "lat": 12.973484256997908,
+      "lon": 77.550805919489,
+      "stress": 0.115,
+      "total_violations": 2272,
+      "spillover_centrality": 0.008224284325051727,
+      "id": "BTP070 - Cholurpalya Junction, Magadi Road"
+    },
+    {
+      "lat": 12.974369503954971,
+      "lon": 77.55203424621543,
+      "stress": 0.127,
+      "total_violations": 721,
+      "spillover_centrality": 0.00430580916491049,
+      "id": "BTP071 - Prasanna Junction"
+    },
+    {
+      "lat": 12.975846885138832,
+      "lon": 77.56179568138215,
+      "stress": 0.0523,
+      "total_violations": 1047,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP074 - Leprosy Hospital Junction"
+    },
+    {
+      "lat": 12.968845718276503,
+      "lon": 77.58628269328581,
+      "stress": 0.0633,
+      "total_violations": 188,
+      "spillover_centrality": 0.019985939244691393,
+      "id": "BTP075 - Police Corner"
+    },
+    {
+      "lat": 12.968029834285714,
+      "lon": 77.58880913494505,
+      "stress": 0.1871,
+      "total_violations": 455,
+      "spillover_centrality": 0.006666996406209152,
+      "id": "BTP076 - Hudson Circle"
+    },
+    {
+      "lat": 12.966806766666668,
+      "lon": 77.58703611,
+      "stress": 0.3976,
+      "total_violations": 30,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP077 - Halasuru Gate Junction"
+    },
+    {
+      "lat": 12.965873413934425,
+      "lon": 77.5854067954918,
+      "stress": 0.091,
+      "total_violations": 244,
+      "spillover_centrality": 0.012317672006315871,
+      "id": "BTP078 - NR Square Junction"
+    },
+    {
+      "lat": 12.964742432716049,
+      "lon": 77.58478980123456,
+      "stress": 0.1904,
+      "total_violations": 162,
+      "spillover_centrality": 0.005079040974174765,
+      "id": "BTP079 - Town Hall Junction"
+    },
+    {
+      "lat": 12.96439657572473,
+      "lon": 77.58316820553203,
+      "stress": 0.098,
+      "total_violations": 3681,
+      "spillover_centrality": 0.005593272017250213,
+      "id": "BTP080 - NR Road, SP Road Junction"
+    },
+    {
+      "lat": 12.964423750642322,
+      "lon": 77.57724121294086,
+      "stress": 0.0741,
+      "total_violations": 11538,
+      "spillover_centrality": 0.00444956635665403,
+      "id": "BTP082 - KR Market Junction"
+    },
+    {
+      "lat": 12.966450044406306,
+      "lon": 77.57440287238298,
+      "stress": 0.0672,
+      "total_violations": 2778,
+      "spillover_centrality": 0.010135408257912567,
+      "id": "BTP083 - AS Char Street, Mysore Road"
+    },
+    {
+      "lat": 12.966068878313253,
+      "lon": 77.56948985903615,
+      "stress": 0.2899,
+      "total_violations": 166,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP085 - Briyand Circle"
+    },
+    {
+      "lat": 12.960983110344829,
+      "lon": 77.56353294367817,
+      "stress": 0.2964,
+      "total_violations": 87,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP089 - Police Quarters, Sultan Road"
+    },
+    {
+      "lat": 12.962208439163499,
+      "lon": 77.55862826692015,
+      "stress": 0.0352,
+      "total_violations": 263,
+      "spillover_centrality": 0.006198254947108546,
+      "id": "BTP091 - Sirsi Circle"
+    },
+    {
+      "lat": 12.959323617708334,
+      "lon": 77.555697278125,
+      "stress": 0.278,
+      "total_violations": 96,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP092 - Bangalore Builders Junction"
+    },
+    {
+      "lat": 12.958754304444446,
+      "lon": 77.55213842444445,
+      "stress": 0.1965,
+      "total_violations": 90,
+      "spillover_centrality": 0.004996752651860931,
+      "id": "BTP093 - Toll Gate, Mysore Road"
+    },
+    {
+      "lat": 12.955815682142857,
+      "lon": 77.54617815178571,
+      "stress": 0.3292,
+      "total_violations": 112,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP094 - Sri Skanda Complex, Mysore Road"
+    },
+    {
+      "lat": 12.953825250666533,
+      "lon": 77.54339804607628,
+      "stress": 0.1816,
+      "total_violations": 775,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP095 - Satellite Bus Stand, Mysore Road"
+    },
+    {
+      "lat": 12.952594812896978,
+      "lon": 77.54121609195656,
+      "stress": 0.0797,
+      "total_violations": 972,
+      "spillover_centrality": 0.008836226725618622,
+      "id": "BTP096 - Gali Anjaneya Temple"
+    },
+    {
+      "lat": 12.944823567475726,
+      "lon": 77.52768460776699,
+      "stress": 0.1291,
+      "total_violations": 206,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP098 - Nayandahalli Junction"
+    },
+    {
+      "lat": 12.969120946131804,
+      "lon": 77.60030236275072,
+      "stress": 0.0904,
+      "total_violations": 349,
+      "spillover_centrality": 0.007549642808751289,
+      "id": "BTP099 - Cash Pharmacy, Residency Road"
+    },
+    {
+      "lat": 12.962800310526315,
+      "lon": 77.59827016480263,
+      "stress": 0.3656,
+      "total_violations": 304,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP100 - Richmond Circle"
+    },
+    {
+      "lat": 12.961947537560976,
+      "lon": 77.59617864317073,
+      "stress": 0.3469,
+      "total_violations": 410,
+      "spillover_centrality": 0.004668054423911614,
+      "id": "BTP101 - Blood Bank Circle, KH Road"
+    },
+    {
+      "lat": 12.955459190857143,
+      "lon": 77.59290232228571,
+      "stress": 0.0455,
+      "total_violations": 175,
+      "spillover_centrality": 0.010084626315001665,
+      "id": "BTP102 - BMTC Junction, KH Road"
+    },
+    {
+      "lat": 12.9538741625,
+      "lon": 77.59162276111111,
+      "stress": 0.2787,
+      "total_violations": 144,
+      "spillover_centrality": 0.006117107070859711,
+      "id": "BTP103 - Shanti Nagar TTMC"
+    },
+    {
+      "lat": 12.959562748076925,
+      "lon": 77.57661357181698,
+      "stress": 0.147,
+      "total_violations": 1508,
+      "spillover_centrality": 0.005899573329490523,
+      "id": "BTP104 - Medical College Circle"
+    },
+    {
+      "lat": 12.956902590860215,
+      "lon": 77.57416609784947,
+      "stress": 0.387,
+      "total_violations": 186,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP105 - Shivasankara Circle"
+    },
+    {
+      "lat": 12.952855020536774,
+      "lon": 77.57449485352718,
+      "stress": 0.265,
+      "total_violations": 159,
+      "spillover_centrality": 0.006265856282436779,
+      "id": "BTP106 - VV Puram College"
+    },
+    {
+      "lat": 12.948955050684932,
+      "lon": 77.57294951506849,
+      "stress": 0.3224,
+      "total_violations": 73,
+      "spillover_centrality": 0.004378131881005472,
+      "id": "BTP107 - National College Junction"
+    },
+    {
+      "lat": 12.943901209259396,
+      "lon": 77.57143116315804,
+      "stress": 0.154,
+      "total_violations": 1801,
+      "spillover_centrality": 0.004464978745298292,
+      "id": "BTP108 - Tagore Park Junction"
+    },
+    {
+      "lat": 12.940864320388348,
+      "lon": 77.57243474530745,
+      "stress": 0.1082,
+      "total_violations": 309,
+      "spillover_centrality": 0.01130114902788926,
+      "id": "BTP109 - Dewan Madhava Rao Junction"
+    },
+    {
+      "lat": 12.93742960532226,
+      "lon": 77.57230527575187,
+      "stress": 0.5877,
+      "total_violations": 7,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP110 - Bharathi Nursing Home, Basavanagudi"
+    },
+    {
+      "lat": 12.92934653,
+      "lon": 77.57320882,
+      "stress": 0.4521,
+      "total_violations": 10,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP112 - 14th Cross, KR Road"
+    },
+    {
+      "lat": 12.9175333703125,
+      "lon": 77.5731112515625,
+      "stress": 0.2654,
+      "total_violations": 128,
+      "spillover_centrality": 0.005661816304721936,
+      "id": "BTP113 - 27th Cross, Pai Vista, KR Road"
+    },
+    {
+      "lat": 12.924224496361514,
+      "lon": 77.57491752140425,
+      "stress": 0.2957,
+      "total_violations": 64,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP114 - KR Road Junction, Near JSS"
+    },
+    {
+      "lat": 12.91728404702033,
+      "lon": 77.5738125694776,
+      "stress": 0.2842,
+      "total_violations": 362,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP115 - Sahasra Hospital, Jayanagar"
+    },
+    {
+      "lat": 12.91214845732899,
+      "lon": 77.57334888045604,
+      "stress": 0.0853,
+      "total_violations": 307,
+      "spillover_centrality": 0.010839814579769881,
+      "id": "BTP117 - 9th Cross, Kanakapura Road"
+    },
+    {
+      "lat": 12.958166349617152,
+      "lon": 77.57756666983154,
+      "stress": 0.0472,
+      "total_violations": 653,
+      "spillover_centrality": 0.011385573014511778,
+      "id": "BTP118 - Basappa Circle"
+    },
+    {
+      "lat": 12.955163112562813,
+      "lon": 77.58039649145728,
+      "stress": 0.2316,
+      "total_violations": 199,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP119 - Minerva Circle"
+    },
+    {
+      "lat": 12.954084420901639,
+      "lon": 77.58441278032787,
+      "stress": 0.06,
+      "total_violations": 244,
+      "spillover_centrality": 0.008158815961097883,
+      "id": "BTP120 - Lalbagh Main Gate Junction"
+    },
+    {
+      "lat": 12.951853676635514,
+      "lon": 77.5903747271028,
+      "stress": 0.3779,
+      "total_violations": 107,
+      "spillover_centrality": 0.004861869791098974,
+      "id": "BTP121 - KH Circle"
+    },
+    {
+      "lat": 12.948400291780821,
+      "lon": 77.59279610068494,
+      "stress": 0.3829,
+      "total_violations": 146,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP122 - Siddapura Junction"
+    },
+    {
+      "lat": 12.94600243397952,
+      "lon": 77.59607296917757,
+      "stress": 0.1136,
+      "total_violations": 535,
+      "spillover_centrality": 0.004926237424699807,
+      "id": "BTP123 - 10th Cross, Wilson Garden"
+    },
+    {
+      "lat": 12.936743940419163,
+      "lon": 77.60242927844311,
+      "stress": 0.089,
+      "total_violations": 334,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP126 - Dairy Circle"
+    },
+    {
+      "lat": 12.927947021686748,
+      "lon": 77.59825148915664,
+      "stress": 0.1646,
+      "total_violations": 83,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP127 - Sagar Hospital, Jayanagar"
+    },
+    {
+      "lat": 12.920460569090908,
+      "lon": 77.60040643272727,
+      "stress": 0.4052,
+      "total_violations": 55,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP128 - Gorappanapalya Junction"
+    },
+    {
+      "lat": 12.908069876703646,
+      "lon": 77.60081684453249,
+      "stress": 0.2092,
+      "total_violations": 631,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP130 - GD Mara Junction"
+    },
+    {
+      "lat": 12.951251251265823,
+      "lon": 77.60690484050633,
+      "stress": 0.2743,
+      "total_violations": 158,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP132 - Anepalya Junction"
+    },
+    {
+      "lat": 12.941853575342465,
+      "lon": 77.6086067250685,
+      "stress": 0.4225,
+      "total_violations": 73,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP133 - Adugodi Junction"
+    },
+    {
+      "lat": 12.945696853061223,
+      "lon": 77.6025479367347,
+      "stress": 0.2625,
+      "total_violations": 49,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP134 - Mico Bande"
+    },
+    {
+      "lat": 12.935621750629496,
+      "lon": 77.61497794019785,
+      "stress": 0.109,
+      "total_violations": 1112,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP135 - UCO Bank Junction"
+    },
+    {
+      "lat": 12.93432707138889,
+      "lon": 77.60844668972223,
+      "stress": 0.1541,
+      "total_violations": 360,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP136 - Hosur-Tavarkere Road Junction"
+    },
+    {
+      "lat": 12.92332618796038,
+      "lon": 77.6198709011831,
+      "stress": 0.1193,
+      "total_violations": 596,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP137 - Madiwala Traffic PS Junction"
+    },
+    {
+      "lat": 12.927103010322917,
+      "lon": 77.61688994134308,
+      "stress": 0.3267,
+      "total_violations": 75,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP138 - Sarjapur Road Check Post"
+    },
+    {
+      "lat": 12.932305598913045,
+      "lon": 77.6132812736413,
+      "stress": 0.0468,
+      "total_violations": 368,
+      "spillover_centrality": 0.00927271165238496,
+      "id": "BTP140 - Madiwala Check Post"
+    },
+    {
+      "lat": 12.968292564,
+      "lon": 77.613494202,
+      "stress": 0.2917,
+      "total_violations": 50,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP141 - Palmgroove Junction"
+    },
+    {
+      "lat": 12.961824142424243,
+      "lon": 77.61549586666666,
+      "stress": 0.3966,
+      "total_violations": 33,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP142 - Lower Agram Road Junction"
+    },
+    {
+      "lat": 12.9694987,
+      "lon": 77.6197457625,
+      "stress": 0.3732,
+      "total_violations": 24,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP143 - ASC Junction"
+    },
+    {
+      "lat": 12.969203566666666,
+      "lon": 77.62634385,
+      "stress": 0.6175,
+      "total_violations": 6,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP144 - Commando Hospital Junction"
+    },
+    {
+      "lat": 12.961282601803124,
+      "lon": 77.63615441362482,
+      "stress": 0.1803,
+      "total_violations": 175,
+      "spillover_centrality": 0.005250397371980367,
+      "id": "BTP145 - Sri Hatti Maramma Circle, Domluru"
+    },
+    {
+      "lat": 12.960488461643836,
+      "lon": 77.63886880273972,
+      "stress": 0.4109,
+      "total_violations": 146,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP146 - Domlur Water Tank"
+    },
+    {
+      "lat": 12.963663511161307,
+      "lon": 77.64223399413451,
+      "stress": 0.0368,
+      "total_violations": 745,
+      "spillover_centrality": 0.004537709843818416,
+      "id": "BTP148 - 17th Main, Doopanahalli Bus Stop"
+    },
+    {
+      "lat": 12.929791199999999,
+      "lon": 77.54656500833333,
+      "stress": 0.4431,
+      "total_violations": 12,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP154 - Itmadu Junction"
+    },
+    {
+      "lat": 12.9266994100295,
+      "lon": 77.55074285663717,
+      "stress": 0.3263,
+      "total_violations": 339,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP155 - Katriguppe Junction"
+    },
+    {
+      "lat": 12.923719841795629,
+      "lon": 77.55360571975804,
+      "stress": 0.2811,
+      "total_violations": 13,
+      "spillover_centrality": 0.008836226725618622,
+      "id": "BTP156 - Kamakya Junction"
+    },
+    {
+      "lat": 12.913022025,
+      "lon": 77.5670021,
+      "stress": 0.5098,
+      "total_violations": 16,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP157 - Kadirenahalli Cross"
+    },
+    {
+      "lat": 12.921245118184277,
+      "lon": 77.56029589125625,
+      "stress": 0.2815,
+      "total_violations": 45,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP158 - Devegowda Petrol Bunk"
+    },
+    {
+      "lat": 12.906413123500311,
+      "lon": 77.57288417491768,
+      "stress": 0.218,
+      "total_violations": 101,
+      "spillover_centrality": 0.005626570012786259,
+      "id": "BTP159 - JP Nagar Metro, ORR"
+    },
+    {
+      "lat": 12.906264035557681,
+      "lon": 77.57765224581213,
+      "stress": 0.2806,
+      "total_violations": 23,
+      "spillover_centrality": 0.005102270463484439,
+      "id": "BTP161 - 15th Cross, 35th Main, JP Nagar"
+    },
+    {
+      "lat": 12.91499527445055,
+      "lon": 77.60852014148351,
+      "stress": 0.2076,
+      "total_violations": 364,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP163 - 16th Main Road, BTM Layout"
+    },
+    {
+      "lat": 12.916027286041107,
+      "lon": 77.61535643491827,
+      "stress": 0.6591,
+      "total_violations": 42,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP164 - 29th Main Road, BTM Layout"
+    },
+    {
+      "lat": 12.984920821487604,
+      "lon": 77.5943366785124,
+      "stress": 0.297,
+      "total_violations": 121,
+      "spillover_centrality": 0.00504645639283761,
+      "id": "BTP166 - Coffee Board Junction"
+    },
+    {
+      "lat": 12.9582712466602,
+      "lon": 77.58126169958715,
+      "stress": 0.098,
+      "total_violations": 372,
+      "spillover_centrality": 0.006895549484648497,
+      "id": "BTP167 - JC Road Junction"
+    },
+    {
+      "lat": 12.961180810606061,
+      "lon": 77.58428897045455,
+      "stress": 0.2222,
+      "total_violations": 132,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP168 - MSR Building, JC Road"
+    },
+    {
+      "lat": 12.99037199306623,
+      "lon": 77.551225814101,
+      "stress": 0.1303,
+      "total_violations": 573,
+      "spillover_centrality": 0.015350321989570488,
+      "id": "BTP170 - Dr. Bheem Rao Palace, Chord Road"
+    },
+    {
+      "lat": 12.986301935964912,
+      "lon": 77.59864174824561,
+      "stress": 0.3809,
+      "total_violations": 114,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP171 - Indian Express (Balekundri)"
+    },
+    {
+      "lat": 12.961702129381443,
+      "lon": 77.59948909484535,
+      "stress": 0.1063,
+      "total_violations": 776,
+      "spillover_centrality": 0.00908826215808157,
+      "id": "BTP172 - Nanjappa Circle"
+    },
+    {
+      "lat": 12.98232968486842,
+      "lon": 77.59871615789473,
+      "stress": 0.1215,
+      "total_violations": 152,
+      "spillover_centrality": 0.008000546664833052,
+      "id": "BTP173 - TMC"
+    },
+    {
+      "lat": 12.917309109693877,
+      "lon": 77.57831904234695,
+      "stress": 0.1025,
+      "total_violations": 196,
+      "spillover_centrality": 0.007042243353890788,
+      "id": "BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar"
+    },
+    {
+      "lat": 12.916612181720431,
+      "lon": 77.58524550268818,
+      "stress": 0.1399,
+      "total_violations": 186,
+      "spillover_centrality": 0.005856361659441359,
+      "id": "BTP177 - Aurobindo Circle, ORR"
+    },
+    {
+      "lat": 12.91689827142857,
+      "lon": 77.58956701428572,
+      "stress": 0.4934,
+      "total_violations": 7,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP178 - 18th Main, Marenahalli"
+    },
+    {
+      "lat": 12.91695609,
+      "lon": 77.59508601818183,
+      "stress": 0.2714,
+      "total_violations": 110,
+      "spillover_centrality": 0.004718352440327637,
+      "id": "BTP179 - 9th Block, 28th Main, Jayanagar"
+    },
+    {
+      "lat": 12.96046395210728,
+      "lon": 77.58731793409962,
+      "stress": 0.0772,
+      "total_violations": 261,
+      "spillover_centrality": 0.006566142496955595,
+      "id": "BTP180 - Swagath Poornima Theatre"
+    },
+    {
+      "lat": 12.9019944125,
+      "lon": 77.60112085,
+      "stress": 0.65,
+      "total_violations": 8,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP181 - Bileka Halli Junction"
+    },
+    {
+      "lat": 12.99900715064247,
+      "lon": 77.5508516759733,
+      "stress": 0.213,
+      "total_violations": 1390,
+      "spillover_centrality": 0.0045202270260466595,
+      "id": "BTP182 - 19th Main Junction, Rajajinagar"
+    },
+    {
+      "lat": 12.94843504744186,
+      "lon": 77.58018114418606,
+      "stress": 0.3202,
+      "total_violations": 215,
+      "spillover_centrality": 0.00445015860052478,
+      "id": "BTP184 - Lalbagh West Gate"
+    },
+    {
+      "lat": 12.94458577368421,
+      "lon": 77.58073809122807,
+      "stress": 0.2878,
+      "total_violations": 57,
+      "spillover_centrality": 0.007217395767481958,
+      "id": "BTP185 - RV Teachers College"
+    },
+    {
+      "lat": 12.939329417176364,
+      "lon": 77.58299607614546,
+      "stress": 0.1495,
+      "total_violations": 546,
+      "spillover_centrality": 0.004869552723557745,
+      "id": "BTP186 - 9th Cross, 4th Main, Jayanagar"
+    },
+    {
+      "lat": 12.937437009438865,
+      "lon": 77.58186328855274,
+      "stress": 0.337,
+      "total_violations": 56,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP187 - South End Circle"
+    },
+    {
+      "lat": 12.929681475170067,
+      "lon": 77.5805690537415,
+      "stress": 0.3437,
+      "total_violations": 294,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP188 - 27th Cross, 4th Main, Jayanagar"
+    },
+    {
+      "lat": 12.928112280564784,
+      "lon": 77.58069761295681,
+      "stress": 0.0594,
+      "total_violations": 602,
+      "spillover_centrality": 0.008060693555066263,
+      "id": "BTP189 - New Diagonal Road, Jayanagar"
+    },
+    {
+      "lat": 12.922585208123428,
+      "lon": 77.5812768107059,
+      "stress": 0.2164,
+      "total_violations": 145,
+      "spillover_centrality": 0.004802042252205627,
+      "id": "BTP190 - 36th Cross, 4th Main, Jayanagar"
+    },
+    {
+      "lat": 12.920106225714285,
+      "lon": 77.58220127047619,
+      "stress": 0.2825,
+      "total_violations": 105,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP191 - 40th Cross, 4th Main, Jayanagar"
+    },
+    {
+      "lat": 12.95650754928,
+      "lon": 77.58603276544001,
+      "stress": 0.1308,
+      "total_violations": 625,
+      "spillover_centrality": 0.0038135348868297532,
+      "id": "BTP192 - Urvashi Theater"
+    },
+    {
+      "lat": 12.949798086218998,
+      "lon": 77.5767949444681,
+      "stress": 0.3497,
+      "total_violations": 113,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP193 - Vasavi Circle"
+    },
+    {
+      "lat": 12.910996460923245,
+      "lon": 77.57833824855072,
+      "stress": 0.2023,
+      "total_violations": 138,
+      "spillover_centrality": 0.005579930244990895,
+      "id": "BTP196 - Sarakki Main Road"
+    },
+    {
+      "lat": 12.911549545221384,
+      "lon": 77.58599000264428,
+      "stress": 0.0793,
+      "total_violations": 284,
+      "spillover_centrality": 0.008413333569456583,
+      "id": "BTP197 - 9th Cross, 24th Main, JP Nagar"
+    },
+    {
+      "lat": 12.910339621428571,
+      "lon": 77.59572164285714,
+      "stress": 0.5013,
+      "total_violations": 14,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP198 - 9th Cross, 8th Main, JP Nagar"
+    },
+    {
+      "lat": 12.9063283,
+      "lon": 77.58138778214285,
+      "stress": 0.4756,
+      "total_violations": 28,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP200 - 15th Cross, 33rd Main, JP Nagar"
+    },
+    {
+      "lat": 12.917186653521128,
+      "lon": 77.59701229788732,
+      "stress": 0.228,
+      "total_violations": 142,
+      "spillover_centrality": 0.010364592762931224,
+      "id": "BTP202 - East End Main Road, Jayanagar"
+    },
+    {
+      "lat": 12.96743880076923,
+      "lon": 77.59360017,
+      "stress": 0.3771,
+      "total_violations": 130,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP203 - RRMR Junction"
+    },
+    {
+      "lat": 12.990358886677116,
+      "lon": 77.55373500799372,
+      "stress": 0.2114,
+      "total_violations": 638,
+      "spillover_centrality": 0.0075455080413139135,
+      "id": "BTP204 - ESI Hospital, Rajajinagar"
+    },
+    {
+      "lat": 12.997488303320912,
+      "lon": 77.54695407575124,
+      "stress": 0.1502,
+      "total_violations": 1045,
+      "spillover_centrality": 0.00410643787395507,
+      "id": "BTP205 - Modi Hospital Junction"
+    },
+    {
+      "lat": 12.998620176634214,
+      "lon": 77.54142142920723,
+      "stress": 0.0667,
+      "total_violations": 719,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP206 - Shankara Mutt Circle, Vijayanagar"
+    },
+    {
+      "lat": 12.991897484976526,
+      "lon": 77.53847353051643,
+      "stress": 0.337,
+      "total_violations": 213,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP207 - 8th Main Road Basaveshwara Nagar"
+    },
+    {
+      "lat": 12.987954160845806,
+      "lon": 77.53755577344506,
+      "stress": 0.1357,
+      "total_violations": 812,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP208 - Havanur Circle"
+    },
+    {
+      "lat": 12.986979151428573,
+      "lon": 77.55512463802198,
+      "stress": 0.2181,
+      "total_violations": 455,
+      "spillover_centrality": 0.005627863352669993,
+      "id": "BTP210 - 50th cross, 12th Main , Rajajinagar"
+    },
+    {
+      "lat": 12.983371022821446,
+      "lon": 77.60345435130863,
+      "stress": 0.1248,
+      "total_violations": 5388,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP211 - Central Street Junction"
+    },
+    {
+      "lat": 12.96031432051282,
+      "lon": 77.5714075602564,
+      "stress": 0.2837,
+      "total_violations": 78,
+      "spillover_centrality": 0.005640748438202277,
+      "id": "BTP212 - Minto Junction"
+    },
+    {
+      "lat": 12.960664534079864,
+      "lon": 77.56822902305134,
+      "stress": 0.2499,
+      "total_violations": 21,
+      "spillover_centrality": 0.009604206916743189,
+      "id": "BTP213 - Royan Circle"
+    },
+    {
+      "lat": 12.96500902960007,
+      "lon": 77.55255323659712,
+      "stress": 0.11,
+      "total_violations": 252,
+      "spillover_centrality": 0.0034345009264042017,
+      "id": "BTP214 - 5th Main Chamrajpet  Junction"
+    },
+    {
+      "lat": 12.946120153483719,
+      "lon": 77.57023379090926,
+      "stress": 0.101,
+      "total_violations": 434,
+      "spillover_centrality": 0.006953005209755897,
+      "id": "BTP215 - Vanivillas Junction"
+    },
+    {
+      "lat": 12.93804460616813,
+      "lon": 77.57688296083747,
+      "stress": 0.2755,
+      "total_violations": 172,
+      "spillover_centrality": 0.005334908752516669,
+      "id": "BTP216 - Yediyur Junction"
+    },
+    {
+      "lat": 12.957381283693532,
+      "lon": 77.56944775460542,
+      "stress": 0.3432,
+      "total_violations": 85,
+      "spillover_centrality": 0.003936473081992077,
+      "id": "BTP217 - Baleyele Junction"
+    },
+    {
+      "lat": 12.934673374928776,
+      "lon": 77.58443592279203,
+      "stress": 0.052,
+      "total_violations": 351,
+      "spillover_centrality": 0.009119407909610295,
+      "id": "BTP218 - Syndicate Bank Junction"
+    },
+    {
+      "lat": 12.931167219553071,
+      "lon": 77.58453701256984,
+      "stress": 0.1342,
+      "total_violations": 358,
+      "spillover_centrality": 0.003907786608992887,
+      "id": "BTP219 - Canara Bank Junction"
+    },
+    {
+      "lat": 12.928844605442176,
+      "lon": 77.58282851292518,
+      "stress": 0.037,
+      "total_violations": 294,
+      "spillover_centrality": 0.016064727182642916,
+      "id": "BTP220 - Puttanna Junction"
+    },
+    {
+      "lat": 12.905022600862068,
+      "lon": 77.58618874568965,
+      "stress": 0.2642,
+      "total_violations": 116,
+      "spillover_centrality": 0.004685836752314343,
+      "id": "BTP221 - 15th Cross, 24th Main, JP Nagar"
+    },
+    {
+      "lat": 12.905932804081633,
+      "lon": 77.59263616836735,
+      "stress": 0.2776,
+      "total_violations": 98,
+      "spillover_centrality": 0.00635360628939458,
+      "id": "BTP222 - Delmia Circle"
+    },
+    {
+      "lat": 12.928338116027875,
+      "lon": 77.58587362578398,
+      "stress": 0.087,
+      "total_violations": 287,
+      "spillover_centrality": 0.004591497147564384,
+      "id": "BTP225 - Geetha Junction"
+    },
+    {
+      "lat": 12.925926613617886,
+      "lon": 77.58563274735774,
+      "stress": 0.0782,
+      "total_violations": 492,
+      "spillover_centrality": 0.00560877880217085,
+      "id": "BTP226 - 33rd Cross, 11th Main, Jayanagar"
+    },
+    {
+      "lat": 12.976421199999999,
+      "lon": 77.58518606,
+      "stress": 0.0,
+      "total_violations": 0,
+      "spillover_centrality": 0.011564258419470185,
+      "id": "Unknown"
+    }
+  ],
+  "edges": [
+    {
+      "distance_m": 170.5,
+      "weight": 0.005831,
+      "source": "BTP006 - Navarang Bar Junction",
+      "target": "BTP009 - Prakash Nagar Junction"
+    },
+    {
+      "distance_m": 510.8,
+      "weight": 0.001954,
+      "source": "BTP006 - Navarang Bar Junction",
+      "target": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road"
+    },
+    {
+      "distance_m": 416.5,
+      "weight": 0.002395,
+      "source": "BTP006 - Navarang Bar Junction",
+      "target": "BTP015 - Suguna Hospital, Dr. Rajkumar Road"
+    },
+    {
+      "distance_m": 424.7,
+      "weight": 0.002349,
+      "source": "BTP006 - Navarang Bar Junction",
+      "target": "BTP204 - ESI Hospital, Rajajinagar"
+    },
+    {
+      "distance_m": 517.6,
+      "weight": 0.001928,
+      "source": "BTP006 - Navarang Bar Junction",
+      "target": "BTP210 - 50th cross, 12th Main , Rajajinagar"
+    },
+    {
+      "distance_m": 536.4,
+      "weight": 0.001861,
+      "source": "BTP008 - Navarang Theatre",
+      "target": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road"
+    },
+    {
+      "distance_m": 401.6,
+      "weight": 0.002484,
+      "source": "BTP008 - Navarang Theatre",
+      "target": "BTP027 - Modi Bridge Junction"
+    },
+    {
+      "distance_m": 436.8,
+      "weight": 0.002284,
+      "source": "BTP009 - Prakash Nagar Junction",
+      "target": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road"
+    },
+    {
+      "distance_m": 485.9,
+      "weight": 0.002054,
+      "source": "BTP009 - Prakash Nagar Junction",
+      "target": "BTP204 - ESI Hospital, Rajajinagar"
+    },
+    {
+      "distance_m": 461.4,
+      "weight": 0.002163,
+      "source": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",
+      "target": "BTP170 - Dr. Bheem Rao Palace, Chord Road"
+    },
+    {
+      "distance_m": 569.4,
+      "weight": 0.001753,
+      "source": "BTP015 - Suguna Hospital, Dr. Rajkumar Road",
+      "target": "BTP009 - Prakash Nagar Junction"
+    },
+    {
+      "distance_m": 481.7,
+      "weight": 0.002072,
+      "source": "BTP015 - Suguna Hospital, Dr. Rajkumar Road",
+      "target": "BTP210 - 50th cross, 12th Main , Rajajinagar"
+    },
+    {
+      "distance_m": 409.3,
+      "weight": 0.002438,
+      "source": "BTP016 - 5th Main Road, RPC Layout",
+      "target": "BTP022 - Marenahalli Junction, Vijayanagar"
+    },
+    {
+      "distance_m": 531.2,
+      "weight": 0.001879,
+      "source": "BTP018 - Dhobi Ghat Junction",
+      "target": "BTP024 - NPS, Vijayanagar"
+    },
+    {
+      "distance_m": 493.0,
+      "weight": 0.002024,
+      "source": "BTP025 - Puttamma Choultry, Nagarbhavi",
+      "target": "BTP067 - Jai Muni Rao Circle"
+    },
+    {
+      "distance_m": 544.8,
+      "weight": 0.001832,
+      "source": "BTP026 - 1st Block Junction, Rajajinagar",
+      "target": "BTP008 - Navarang Theatre"
+    },
+    {
+      "distance_m": 398.9,
+      "weight": 0.002501,
+      "source": "BTP026 - 1st Block Junction, Rajajinagar",
+      "target": "BTP027 - Modi Bridge Junction"
+    },
+    {
+      "distance_m": 388.7,
+      "weight": 0.002566,
+      "source": "BTP026 - 1st Block Junction, Rajajinagar",
+      "target": "BTP182 - 19th Main Junction, Rajajinagar"
+    },
+    {
+      "distance_m": 443.4,
+      "weight": 0.00225,
+      "source": "BTP028 - Vijayanagar Bus Stand Junction",
+      "target": "BTP022 - Marenahalli Junction, Vijayanagar"
+    },
+    {
+      "distance_m": 297.2,
+      "weight": 0.003353,
+      "source": "BTP033 - Sophia High School, Sankey Road",
+      "target": "BTP032 - Windsor Circle"
+    },
+    {
+      "distance_m": 408.5,
+      "weight": 0.002442,
+      "source": "BTP033 - Sophia High School, Sankey Road",
+      "target": "BTP034 - LRDE Junction"
+    },
+    {
+      "distance_m": 567.9,
+      "weight": 0.001758,
+      "source": "BTP035 - Basaweshwara Circle (LH) Junction",
+      "target": "BTP034 - LRDE Junction"
+    },
+    {
+      "distance_m": 418.9,
+      "weight": 0.002381,
+      "source": "BTP035 - Basaweshwara Circle (LH) Junction",
+      "target": "BTP052 - CID Carlton House Junction"
+    },
+    {
+      "distance_m": 449.1,
+      "weight": 0.002222,
+      "source": "BTP036 - Police Thimmaiah Circle (GPO)",
+      "target": "BTP042 - Minsk Square Junction (CTO)"
+    },
+    {
+      "distance_m": 238.2,
+      "weight": 0.00418,
+      "source": "BTP036 - Police Thimmaiah Circle (GPO)",
+      "target": "BTP047 - Vidhan Soudha Metro Station"
+    },
+    {
+      "distance_m": 428.0,
+      "weight": 0.002331,
+      "source": "BTP036 - Police Thimmaiah Circle (GPO)",
+      "target": "BTP166 - Coffee Board Junction"
+    },
+    {
+      "distance_m": 497.5,
+      "weight": 0.002006,
+      "source": "BTP036 - Police Thimmaiah Circle (GPO)",
+      "target": "BTP173 - TMC"
+    },
+    {
+      "distance_m": 147.4,
+      "weight": 0.00674,
+      "source": "BTP037 - KR Circle",
+      "target": "Unknown"
+    },
+    {
+      "distance_m": 304.7,
+      "weight": 0.003271,
+      "source": "BTP038 - Mysore Bank Junction",
+      "target": "BTP044 - Sagar Theatre Junction"
+    },
+    {
+      "distance_m": 541.1,
+      "weight": 0.001845,
+      "source": "BTP038 - Mysore Bank Junction",
+      "target": "Unknown"
+    },
+    {
+      "distance_m": 203.5,
+      "weight": 0.004891,
+      "source": "BTP040 - Elite Junction",
+      "target": "BTP045 - Danvanthri Road Junction"
+    },
+    {
+      "distance_m": 413.2,
+      "weight": 0.002414,
+      "source": "BTP041 - Gopal Gowda Circle",
+      "target": "BTP037 - KR Circle"
+    },
+    {
+      "distance_m": 372.3,
+      "weight": 0.002679,
+      "source": "BTP041 - Gopal Gowda Circle",
+      "target": "BTP047 - Vidhan Soudha Metro Station"
+    },
+    {
+      "distance_m": 559.8,
+      "weight": 0.001783,
+      "source": "BTP041 - Gopal Gowda Circle",
+      "target": "Unknown"
+    },
+    {
+      "distance_m": 309.3,
+      "weight": 0.003223,
+      "source": "BTP044 - Sagar Theatre Junction",
+      "target": "BTP040 - Elite Junction"
+    },
+    {
+      "distance_m": 554.1,
+      "weight": 0.001801,
+      "source": "BTP044 - Sagar Theatre Junction",
+      "target": "BTP043 - Upparpet Junction"
+    },
+    {
+      "distance_m": 504.1,
+      "weight": 0.00198,
+      "source": "BTP044 - Sagar Theatre Junction",
+      "target": "BTP045 - Danvanthri Road Junction"
+    },
+    {
+      "distance_m": 438.1,
+      "weight": 0.002277,
+      "source": "BTP048 - Shanthala Junction",
+      "target": "BTP045 - Danvanthri Road Junction"
+    },
+    {
+      "distance_m": 493.4,
+      "weight": 0.002023,
+      "source": "BTP052 - CID Carlton House Junction",
+      "target": "BTP037 - KR Circle"
+    },
+    {
+      "distance_m": 488.1,
+      "weight": 0.002044,
+      "source": "BTP052 - CID Carlton House Junction",
+      "target": "BTP041 - Gopal Gowda Circle"
+    },
+    {
+      "distance_m": 543.0,
+      "weight": 0.001838,
+      "source": "BTP052 - CID Carlton House Junction",
+      "target": "BTP047 - Vidhan Soudha Metro Station"
+    },
+    {
+      "distance_m": 558.3,
+      "weight": 0.001788,
+      "source": "BTP052 - CID Carlton House Junction",
+      "target": "Unknown"
+    },
+    {
+      "distance_m": 410.8,
+      "weight": 0.002429,
+      "source": "BTP053 - Three Let Junction",
+      "target": "BTP054 - Shivananda Circle"
+    },
+    {
+      "distance_m": 392.1,
+      "weight": 0.002544,
+      "source": "BTP057 - Anand Rao Junction",
+      "target": "BTP040 - Elite Junction"
+    },
+    {
+      "distance_m": 261.6,
+      "weight": 0.003808,
+      "source": "BTP057 - Anand Rao Junction",
+      "target": "BTP045 - Danvanthri Road Junction"
+    },
+    {
+      "distance_m": 477.7,
+      "weight": 0.002089,
+      "source": "BTP057 - Anand Rao Junction",
+      "target": "BTP048 - Shanthala Junction"
+    },
+    {
+      "distance_m": 465.7,
+      "weight": 0.002143,
+      "source": "BTP057 - Anand Rao Junction",
+      "target": "BTP058 - Subbanna Junction"
+    },
+    {
+      "distance_m": 349.3,
+      "weight": 0.002855,
+      "source": "BTP058 - Subbanna Junction",
+      "target": "BTP040 - Elite Junction"
+    },
+    {
+      "distance_m": 452.6,
+      "weight": 0.002204,
+      "source": "BTP058 - Subbanna Junction",
+      "target": "BTP044 - Sagar Theatre Junction"
+    },
+    {
+      "distance_m": 472.8,
+      "weight": 0.002111,
+      "source": "BTP058 - Subbanna Junction",
+      "target": "BTP045 - Danvanthri Road Junction"
+    },
+    {
+      "distance_m": 520.2,
+      "weight": 0.001919,
+      "source": "BTP061 - Bhashyam Circle",
+      "target": "BTP018 - Dhobi Ghat Junction"
+    },
+    {
+      "distance_m": 588.9,
+      "weight": 0.001695,
+      "source": "BTP062 - Basava Mantapa, Dr. Rajkumar Road",
+      "target": "BTP061 - Bhashyam Circle"
+    },
+    {
+      "distance_m": 472.8,
+      "weight": 0.002111,
+      "source": "BTP063 - Siddalingaiah Circle",
+      "target": "BTP099 - Cash Pharmacy, Residency Road"
+    },
+    {
+      "distance_m": 598.3,
+      "weight": 0.001669,
+      "source": "BTP064 - Devanga Hostel Junction",
+      "target": "BTP076 - Hudson Circle"
+    },
+    {
+      "distance_m": 599.4,
+      "weight": 0.001666,
+      "source": "BTP064 - Devanga Hostel Junction",
+      "target": "BTP078 - NR Square Junction"
+    },
+    {
+      "distance_m": 598.2,
+      "weight": 0.001669,
+      "source": "BTP064 - Devanga Hostel Junction",
+      "target": "BTP079 - Town Hall Junction"
+    },
+    {
+      "distance_m": 376.7,
+      "weight": 0.002647,
+      "source": "BTP064 - Devanga Hostel Junction",
+      "target": "BTP180 - Swagath Poornima Theatre"
+    },
+    {
+      "distance_m": 558.1,
+      "weight": 0.001789,
+      "source": "BTP067 - Jai Muni Rao Circle",
+      "target": "BTP020 - Hosahalli Metro Station"
+    },
+    {
+      "distance_m": 343.1,
+      "weight": 0.002906,
+      "source": "BTP068 - Veeresh Theatre Junction",
+      "target": "BTP020 - Hosahalli Metro Station"
+    },
+    {
+      "distance_m": 344.2,
+      "weight": 0.002897,
+      "source": "BTP068 - Veeresh Theatre Junction",
+      "target": "BTP067 - Jai Muni Rao Circle"
+    },
+    {
+      "distance_m": 354.5,
+      "weight": 0.002813,
+      "source": "BTP068 - Veeresh Theatre Junction",
+      "target": "BTP069 - MC Circle"
+    },
+    {
+      "distance_m": 247.1,
+      "weight": 0.004031,
+      "source": "BTP069 - MC Circle",
+      "target": "BTP020 - Hosahalli Metro Station"
+    },
+    {
+      "distance_m": 378.4,
+      "weight": 0.002635,
+      "source": "BTP069 - MC Circle",
+      "target": "BTP070 - Cholurpalya Junction, Magadi Road"
+    },
+    {
+      "distance_m": 491.1,
+      "weight": 0.002032,
+      "source": "BTP069 - MC Circle",
+      "target": "BTP071 - Prasanna Junction"
+    },
+    {
+      "distance_m": 165.5,
+      "weight": 0.006007,
+      "source": "BTP071 - Prasanna Junction",
+      "target": "BTP070 - Cholurpalya Junction, Magadi Road"
+    },
+    {
+      "distance_m": 288.8,
+      "weight": 0.003451,
+      "source": "BTP076 - Hudson Circle",
+      "target": "BTP075 - Police Corner"
+    },
+    {
+      "distance_m": 439.8,
+      "weight": 0.002269,
+      "source": "BTP076 - Hudson Circle",
+      "target": "BTP078 - NR Square Junction"
+    },
+    {
+      "distance_m": 548.0,
+      "weight": 0.001821,
+      "source": "BTP077 - Halasuru Gate Junction",
+      "target": "BTP064 - Devanga Hostel Junction"
+    },
+    {
+      "distance_m": 240.1,
+      "weight": 0.004148,
+      "source": "BTP077 - Halasuru Gate Junction",
+      "target": "BTP075 - Police Corner"
+    },
+    {
+      "distance_m": 235.3,
+      "weight": 0.004231,
+      "source": "BTP077 - Halasuru Gate Junction",
+      "target": "BTP076 - Hudson Circle"
+    },
+    {
+      "distance_m": 204.8,
+      "weight": 0.004858,
+      "source": "BTP077 - Halasuru Gate Junction",
+      "target": "BTP078 - NR Square Junction"
+    },
+    {
+      "distance_m": 334.2,
+      "weight": 0.002983,
+      "source": "BTP077 - Halasuru Gate Junction",
+      "target": "BTP079 - Town Hall Junction"
+    },
+    {
+      "distance_m": 497.5,
+      "weight": 0.002006,
+      "source": "BTP077 - Halasuru Gate Junction",
+      "target": "BTP080 - NR Road, SP Road Junction"
+    },
+    {
+      "distance_m": 342.5,
+      "weight": 0.002911,
+      "source": "BTP078 - NR Square Junction",
+      "target": "BTP075 - Police Corner"
+    },
+    {
+      "distance_m": 482.3,
+      "weight": 0.002069,
+      "source": "BTP079 - Town Hall Junction",
+      "target": "BTP075 - Police Corner"
+    },
+    {
+      "distance_m": 568.2,
+      "weight": 0.001757,
+      "source": "BTP079 - Town Hall Junction",
+      "target": "BTP076 - Hudson Circle"
+    },
+    {
+      "distance_m": 142.0,
+      "weight": 0.006994,
+      "source": "BTP079 - Town Hall Junction",
+      "target": "BTP078 - NR Square Junction"
+    },
+    {
+      "distance_m": 180.2,
+      "weight": 0.00552,
+      "source": "BTP079 - Town Hall Junction",
+      "target": "BTP080 - NR Road, SP Road Junction"
+    },
+    {
+      "distance_m": 547.4,
+      "weight": 0.001824,
+      "source": "BTP079 - Town Hall Junction",
+      "target": "BTP180 - Swagath Poornima Theatre"
+    },
+    {
+      "distance_m": 597.4,
+      "weight": 0.001671,
+      "source": "BTP080 - NR Road, SP Road Junction",
+      "target": "BTP075 - Police Corner"
+    },
+    {
+      "distance_m": 292.9,
+      "weight": 0.003403,
+      "source": "BTP080 - NR Road, SP Road Junction",
+      "target": "BTP078 - NR Square Junction"
+    },
+    {
+      "distance_m": 381.1,
+      "weight": 0.002617,
+      "source": "BTP082 - KR Market Junction",
+      "target": "BTP083 - AS Char Street, Mysore Road"
+    },
+    {
+      "distance_m": 534.4,
+      "weight": 0.001868,
+      "source": "BTP083 - AS Char Street, Mysore Road",
+      "target": "BTP043 - Upparpet Junction"
+    },
+    {
+      "distance_m": 535.0,
+      "weight": 0.001866,
+      "source": "BTP085 - Briyand Circle",
+      "target": "BTP083 - AS Char Street, Mysore Road"
+    },
+    {
+      "distance_m": 549.5,
+      "weight": 0.001817,
+      "source": "BTP089 - Police Quarters, Sultan Road",
+      "target": "BTP091 - Sirsi Circle"
+    },
+    {
+      "distance_m": 511.0,
+      "weight": 0.001953,
+      "source": "BTP089 - Police Quarters, Sultan Road",
+      "target": "BTP213 - Royan Circle"
+    },
+    {
+      "distance_m": 450.8,
+      "weight": 0.002213,
+      "source": "BTP092 - Bangalore Builders Junction",
+      "target": "BTP091 - Sirsi Circle"
+    },
+    {
+      "distance_m": 391.5,
+      "weight": 0.002548,
+      "source": "BTP092 - Bangalore Builders Junction",
+      "target": "BTP093 - Toll Gate, Mysore Road"
+    },
+    {
+      "distance_m": 373.7,
+      "weight": 0.002669,
+      "source": "BTP094 - Sri Skanda Complex, Mysore Road",
+      "target": "BTP095 - Satellite Bus Stand, Mysore Road"
+    },
+    {
+      "distance_m": 273.2,
+      "weight": 0.003646,
+      "source": "BTP095 - Satellite Bus Stand, Mysore Road",
+      "target": "BTP096 - Gali Anjaneya Temple"
+    },
+    {
+      "distance_m": 245.9,
+      "weight": 0.00405,
+      "source": "BTP100 - Richmond Circle",
+      "target": "BTP101 - Blood Bank Circle, KH Road"
+    },
+    {
+      "distance_m": 179.7,
+      "weight": 0.005534,
+      "source": "BTP100 - Richmond Circle",
+      "target": "BTP172 - Nanjappa Circle"
+    },
+    {
+      "distance_m": 360.4,
+      "weight": 0.002767,
+      "source": "BTP101 - Blood Bank Circle, KH Road",
+      "target": "BTP172 - Nanjappa Circle"
+    },
+    {
+      "distance_m": 223.8,
+      "weight": 0.004449,
+      "source": "BTP103 - Shanti Nagar TTMC",
+      "target": "BTP102 - BMTC Junction, KH Road"
+    },
+    {
+      "distance_m": 542.4,
+      "weight": 0.00184,
+      "source": "BTP104 - Medical College Circle",
+      "target": "BTP082 - KR Market Junction"
+    },
+    {
+      "distance_m": 186.0,
+      "weight": 0.005347,
+      "source": "BTP104 - Medical College Circle",
+      "target": "BTP118 - Basappa Circle"
+    },
+    {
+      "distance_m": 524.5,
+      "weight": 0.001903,
+      "source": "BTP104 - Medical College Circle",
+      "target": "BTP167 - JC Road Junction"
+    },
+    {
+      "distance_m": 396.6,
+      "weight": 0.002515,
+      "source": "BTP105 - Shivasankara Circle",
+      "target": "BTP104 - Medical College Circle"
+    },
+    {
+      "distance_m": 449.5,
+      "weight": 0.00222,
+      "source": "BTP105 - Shivasankara Circle",
+      "target": "BTP106 - VV Puram College"
+    },
+    {
+      "distance_m": 394.8,
+      "weight": 0.002527,
+      "source": "BTP105 - Shivasankara Circle",
+      "target": "BTP118 - Basappa Circle"
+    },
+    {
+      "distance_m": 482.0,
+      "weight": 0.00207,
+      "source": "BTP105 - Shivasankara Circle",
+      "target": "BTP212 - Minto Junction"
+    },
+    {
+      "distance_m": 515.0,
+      "weight": 0.001938,
+      "source": "BTP105 - Shivasankara Circle",
+      "target": "BTP217 - Baleyele Junction"
+    },
+    {
+      "distance_m": 463.2,
+      "weight": 0.002154,
+      "source": "BTP107 - National College Junction",
+      "target": "BTP106 - VV Puram College"
+    },
+    {
+      "distance_m": 583.2,
+      "weight": 0.001712,
+      "source": "BTP107 - National College Junction",
+      "target": "BTP108 - Tagore Park Junction"
+    },
+    {
+      "distance_m": 430.6,
+      "weight": 0.002317,
+      "source": "BTP107 - National College Junction",
+      "target": "BTP215 - Vanivillas Junction"
+    },
+    {
+      "distance_m": 353.4,
+      "weight": 0.002822,
+      "source": "BTP108 - Tagore Park Junction",
+      "target": "BTP109 - Dewan Madhava Rao Junction"
+    },
+    {
+      "distance_m": 277.9,
+      "weight": 0.003586,
+      "source": "BTP108 - Tagore Park Junction",
+      "target": "BTP215 - Vanivillas Junction"
+    },
+    {
+      "distance_m": 380.5,
+      "weight": 0.002622,
+      "source": "BTP110 - Bharathi Nursing Home, Basavanagudi",
+      "target": "BTP109 - Dewan Madhava Rao Junction"
+    },
+    {
+      "distance_m": 501.7,
+      "weight": 0.001989,
+      "source": "BTP110 - Bharathi Nursing Home, Basavanagudi",
+      "target": "BTP216 - Yediyur Junction"
+    },
+    {
+      "distance_m": 596.6,
+      "weight": 0.001673,
+      "source": "BTP112 - 14th Cross, KR Road",
+      "target": "BTP114 - KR Road Junction, Near JSS"
+    },
+    {
+      "distance_m": 596.6,
+      "weight": 0.001673,
+      "source": "BTP113 - 27th Cross, Pai Vista, KR Road",
+      "target": "BTP117 - 9th Cross, Kanakapura Road"
+    },
+    {
+      "distance_m": 566.0,
+      "weight": 0.001764,
+      "source": "BTP113 - 27th Cross, Pai Vista, KR Road",
+      "target": "BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar"
+    },
+    {
+      "distance_m": 81.0,
+      "weight": 0.012196,
+      "source": "BTP115 - Sahasra Hospital, Jayanagar",
+      "target": "BTP113 - 27th Cross, Pai Vista, KR Road"
+    },
+    {
+      "distance_m": 570.7,
+      "weight": 0.001749,
+      "source": "BTP115 - Sahasra Hospital, Jayanagar",
+      "target": "BTP117 - 9th Cross, Kanakapura Road"
+    },
+    {
+      "distance_m": 489.3,
+      "weight": 0.002039,
+      "source": "BTP115 - Sahasra Hospital, Jayanagar",
+      "target": "BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar"
+    },
+    {
+      "distance_m": 452.7,
+      "weight": 0.002204,
+      "source": "BTP119 - Minerva Circle",
+      "target": "BTP118 - Basappa Circle"
+    },
+    {
+      "distance_m": 452.1,
+      "weight": 0.002207,
+      "source": "BTP119 - Minerva Circle",
+      "target": "BTP120 - Lalbagh Main Gate Junction"
+    },
+    {
+      "distance_m": 356.6,
+      "weight": 0.002796,
+      "source": "BTP119 - Minerva Circle",
+      "target": "BTP167 - JC Road Junction"
+    },
+    {
+      "distance_m": 484.3,
+      "weight": 0.00206,
+      "source": "BTP121 - KH Circle",
+      "target": "BTP102 - BMTC Junction, KH Road"
+    },
+    {
+      "distance_m": 261.5,
+      "weight": 0.00381,
+      "source": "BTP121 - KH Circle",
+      "target": "BTP103 - Shanti Nagar TTMC"
+    },
+    {
+      "distance_m": 463.9,
+      "weight": 0.002151,
+      "source": "BTP122 - Siddapura Junction",
+      "target": "BTP121 - KH Circle"
+    },
+    {
+      "distance_m": 443.9,
+      "weight": 0.002248,
+      "source": "BTP122 - Siddapura Junction",
+      "target": "BTP123 - 10th Cross, Wilson Garden"
+    },
+    {
+      "distance_m": 516.9,
+      "weight": 0.001931,
+      "source": "BTP128 - Gorappanapalya Junction",
+      "target": "BTP202 - East End Main Road, Jayanagar"
+    },
+    {
+      "distance_m": 410.7,
+      "weight": 0.002429,
+      "source": "BTP135 - UCO Bank Junction",
+      "target": "BTP140 - Madiwala Check Post"
+    },
+    {
+      "distance_m": 570.6,
+      "weight": 0.001749,
+      "source": "BTP136 - Hosur-Tavarkere Road Junction",
+      "target": "BTP140 - Madiwala Check Post"
+    },
+    {
+      "distance_m": 528.7,
+      "weight": 0.001888,
+      "source": "BTP138 - Sarjapur Road Check Post",
+      "target": "BTP137 - Madiwala Traffic PS Junction"
+    },
+    {
+      "distance_m": 307.5,
+      "weight": 0.003241,
+      "source": "BTP146 - Domlur Water Tank",
+      "target": "BTP145 - Sri Hatti Maramma Circle, Domluru"
+    },
+    {
+      "distance_m": 507.0,
+      "weight": 0.001969,
+      "source": "BTP146 - Domlur Water Tank",
+      "target": "BTP148 - 17th Main, Doopanahalli Bus Stop"
+    },
+    {
+      "distance_m": 568.2,
+      "weight": 0.001757,
+      "source": "BTP154 - Itmadu Junction",
+      "target": "BTP155 - Katriguppe Junction"
+    },
+    {
+      "distance_m": 453.2,
+      "weight": 0.002202,
+      "source": "BTP155 - Katriguppe Junction",
+      "target": "BTP156 - Kamakya Junction"
+    },
+    {
+      "distance_m": 518.0,
+      "weight": 0.001927,
+      "source": "BTP161 - 15th Cross, 35th Main, JP Nagar",
+      "target": "BTP159 - JP Nagar Metro, ORR"
+    },
+    {
+      "distance_m": 529.1,
+      "weight": 0.001886,
+      "source": "BTP161 - 15th Cross, 35th Main, JP Nagar",
+      "target": "BTP196 - Sarakki Main Road"
+    },
+    {
+      "distance_m": 470.8,
+      "weight": 0.002119,
+      "source": "BTP166 - Coffee Board Junction",
+      "target": "BTP034 - LRDE Junction"
+    },
+    {
+      "distance_m": 596.7,
+      "weight": 0.001673,
+      "source": "BTP166 - Coffee Board Junction",
+      "target": "BTP047 - Vidhan Soudha Metro Station"
+    },
+    {
+      "distance_m": 555.2,
+      "weight": 0.001798,
+      "source": "BTP166 - Coffee Board Junction",
+      "target": "BTP173 - TMC"
+    },
+    {
+      "distance_m": 401.3,
+      "weight": 0.002486,
+      "source": "BTP167 - JC Road Junction",
+      "target": "BTP118 - Basappa Circle"
+    },
+    {
+      "distance_m": 576.0,
+      "weight": 0.001733,
+      "source": "BTP167 - JC Road Junction",
+      "target": "BTP120 - Lalbagh Main Gate Junction"
+    },
+    {
+      "distance_m": 533.4,
+      "weight": 0.001871,
+      "source": "BTP168 - MSR Building, JC Road",
+      "target": "BTP078 - NR Square Junction"
+    },
+    {
+      "distance_m": 398.0,
+      "weight": 0.002506,
+      "source": "BTP168 - MSR Building, JC Road",
+      "target": "BTP079 - Town Hall Junction"
+    },
+    {
+      "distance_m": 376.2,
+      "weight": 0.002651,
+      "source": "BTP168 - MSR Building, JC Road",
+      "target": "BTP080 - NR Road, SP Road Junction"
+    },
+    {
+      "distance_m": 460.2,
+      "weight": 0.002168,
+      "source": "BTP168 - MSR Building, JC Road",
+      "target": "BTP167 - JC Road Junction"
+    },
+    {
+      "distance_m": 338.3,
+      "weight": 0.002947,
+      "source": "BTP168 - MSR Building, JC Road",
+      "target": "BTP180 - Swagath Poornima Theatre"
+    },
+    {
+      "distance_m": 550.9,
+      "weight": 0.001812,
+      "source": "BTP168 - MSR Building, JC Road",
+      "target": "BTP192 - Urvashi Theater"
+    },
+    {
+      "distance_m": 341.5,
+      "weight": 0.00292,
+      "source": "BTP170 - Dr. Bheem Rao Palace, Chord Road",
+      "target": "BTP018 - Dhobi Ghat Junction"
+    },
+    {
+      "distance_m": 567.8,
+      "weight": 0.001758,
+      "source": "BTP171 - Indian Express (Balekundri)",
+      "target": "BTP042 - Minsk Square Junction (CTO)"
+    },
+    {
+      "distance_m": 491.7,
+      "weight": 0.00203,
+      "source": "BTP171 - Indian Express (Balekundri)",
+      "target": "BTP166 - Coffee Board Junction"
+    },
+    {
+      "distance_m": 439.8,
+      "weight": 0.002269,
+      "source": "BTP171 - Indian Express (Balekundri)",
+      "target": "BTP173 - TMC"
+    },
+    {
+      "distance_m": 130.8,
+      "weight": 0.007587,
+      "source": "BTP173 - TMC",
+      "target": "BTP042 - Minsk Square Junction (CTO)"
+    },
+    {
+      "distance_m": 566.2,
+      "weight": 0.001763,
+      "source": "BTP177 - Aurobindo Circle, ORR",
+      "target": "BTP197 - 9th Cross, 24th Main, JP Nagar"
+    },
+    {
+      "distance_m": 470.3,
+      "weight": 0.002122,
+      "source": "BTP178 - 18th Main, Marenahalli",
+      "target": "BTP177 - Aurobindo Circle, ORR"
+    },
+    {
+      "distance_m": 599.3,
+      "weight": 0.001666,
+      "source": "BTP178 - 18th Main, Marenahalli",
+      "target": "BTP179 - 9th Block, 28th Main, Jayanagar"
+    },
+    {
+      "distance_m": 210.7,
+      "weight": 0.004723,
+      "source": "BTP179 - 9th Block, 28th Main, Jayanagar",
+      "target": "BTP202 - East End Main Road, Jayanagar"
+    },
+    {
+      "distance_m": 249.8,
+      "weight": 0.003987,
+      "source": "BTP182 - 19th Main Junction, Rajajinagar",
+      "target": "BTP008 - Navarang Theatre"
+    },
+    {
+      "distance_m": 156.3,
+      "weight": 0.006356,
+      "source": "BTP182 - 19th Main Junction, Rajajinagar",
+      "target": "BTP027 - Modi Bridge Junction"
+    },
+    {
+      "distance_m": 455.2,
+      "weight": 0.002192,
+      "source": "BTP182 - 19th Main Junction, Rajajinagar",
+      "target": "BTP205 - Modi Hospital Junction"
+    },
+    {
+      "distance_m": 430.4,
+      "weight": 0.002318,
+      "source": "BTP184 - Lalbagh West Gate",
+      "target": "BTP185 - RV Teachers College"
+    },
+    {
+      "distance_m": 538.6,
+      "weight": 0.001853,
+      "source": "BTP186 - 9th Cross, 4th Main, Jayanagar",
+      "target": "BTP218 - Syndicate Bank Junction"
+    },
+    {
+      "distance_m": 242.9,
+      "weight": 0.0041,
+      "source": "BTP187 - South End Circle",
+      "target": "BTP186 - 9th Cross, 4th Main, Jayanagar"
+    },
+    {
+      "distance_m": 544.9,
+      "weight": 0.001832,
+      "source": "BTP187 - South End Circle",
+      "target": "BTP216 - Yediyur Junction"
+    },
+    {
+      "distance_m": 414.3,
+      "weight": 0.002408,
+      "source": "BTP187 - South End Circle",
+      "target": "BTP218 - Syndicate Bank Junction"
+    },
+    {
+      "distance_m": 174.3,
+      "weight": 0.005706,
+      "source": "BTP188 - 27th Cross, 4th Main, Jayanagar",
+      "target": "BTP189 - New Diagonal Road, Jayanagar"
+    },
+    {
+      "distance_m": 461.2,
+      "weight": 0.002164,
+      "source": "BTP188 - 27th Cross, 4th Main, Jayanagar",
+      "target": "BTP219 - Canara Bank Junction"
+    },
+    {
+      "distance_m": 262.2,
+      "weight": 0.003799,
+      "source": "BTP188 - 27th Cross, 4th Main, Jayanagar",
+      "target": "BTP220 - Puttanna Junction"
+    },
+    {
+      "distance_m": 594.8,
+      "weight": 0.001678,
+      "source": "BTP188 - 27th Cross, 4th Main, Jayanagar",
+      "target": "BTP225 - Geetha Junction"
+    },
+    {
+      "distance_m": 245.2,
+      "weight": 0.004062,
+      "source": "BTP189 - New Diagonal Road, Jayanagar",
+      "target": "BTP220 - Puttanna Junction"
+    },
+    {
+      "distance_m": 523.0,
+      "weight": 0.001908,
+      "source": "BTP191 - 40th Cross, 4th Main, Jayanagar",
+      "target": "BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar"
+    },
+    {
+      "distance_m": 508.8,
+      "weight": 0.001962,
+      "source": "BTP191 - 40th Cross, 4th Main, Jayanagar",
+      "target": "BTP177 - Aurobindo Circle, ORR"
+    },
+    {
+      "distance_m": 292.2,
+      "weight": 0.003411,
+      "source": "BTP191 - 40th Cross, 4th Main, Jayanagar",
+      "target": "BTP190 - 36th Cross, 4th Main, Jayanagar"
+    },
+    {
+      "distance_m": 320.7,
+      "weight": 0.003108,
+      "source": "BTP192 - Urvashi Theater",
+      "target": "BTP120 - Lalbagh Main Gate Junction"
+    },
+    {
+      "distance_m": 553.5,
+      "weight": 0.001803,
+      "source": "BTP192 - Urvashi Theater",
+      "target": "BTP167 - JC Road Junction"
+    },
+    {
+      "distance_m": 459.6,
+      "weight": 0.002171,
+      "source": "BTP192 - Urvashi Theater",
+      "target": "BTP180 - Swagath Poornima Theatre"
+    },
+    {
+      "distance_m": 420.5,
+      "weight": 0.002372,
+      "source": "BTP193 - Vasavi Circle",
+      "target": "BTP106 - VV Puram College"
+    },
+    {
+      "distance_m": 427.8,
+      "weight": 0.002332,
+      "source": "BTP193 - Vasavi Circle",
+      "target": "BTP107 - National College Junction"
+    },
+    {
+      "distance_m": 397.4,
+      "weight": 0.00251,
+      "source": "BTP193 - Vasavi Circle",
+      "target": "BTP184 - Lalbagh West Gate"
+    },
+    {
+      "distance_m": 556.6,
+      "weight": 0.001793,
+      "source": "BTP196 - Sarakki Main Road",
+      "target": "BTP117 - 9th Cross, Kanakapura Road"
+    },
+    {
+      "distance_m": 591.8,
+      "weight": 0.001687,
+      "source": "BTP198 - 9th Cross, 8th Main, JP Nagar",
+      "target": "BTP222 - Delmia Circle"
+    },
+    {
+      "distance_m": 405.7,
+      "weight": 0.002459,
+      "source": "BTP200 - 15th Cross, 33rd Main, JP Nagar",
+      "target": "BTP161 - 15th Cross, 35th Main, JP Nagar"
+    },
+    {
+      "distance_m": 541.0,
+      "weight": 0.001845,
+      "source": "BTP200 - 15th Cross, 33rd Main, JP Nagar",
+      "target": "BTP221 - 15th Cross, 24th Main, JP Nagar"
+    },
+    {
+      "distance_m": 564.1,
+      "weight": 0.00177,
+      "source": "BTP203 - RRMR Junction",
+      "target": "BTP063 - Siddalingaiah Circle"
+    },
+    {
+      "distance_m": 524.2,
+      "weight": 0.001904,
+      "source": "BTP203 - RRMR Junction",
+      "target": "BTP076 - Hudson Circle"
+    },
+    {
+      "distance_m": 369.3,
+      "weight": 0.0027,
+      "source": "BTP204 - ESI Hospital, Rajajinagar",
+      "target": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road"
+    },
+    {
+      "distance_m": 522.6,
+      "weight": 0.00191,
+      "source": "BTP204 - ESI Hospital, Rajajinagar",
+      "target": "BTP018 - Dhobi Ghat Junction"
+    },
+    {
+      "distance_m": 573.1,
+      "weight": 0.001742,
+      "source": "BTP204 - ESI Hospital, Rajajinagar",
+      "target": "BTP061 - Bhashyam Circle"
+    },
+    {
+      "distance_m": 272.4,
+      "weight": 0.003658,
+      "source": "BTP204 - ESI Hospital, Rajajinagar",
+      "target": "BTP170 - Dr. Bheem Rao Palace, Chord Road"
+    },
+    {
+      "distance_m": 309.4,
+      "weight": 0.003222,
+      "source": "BTP205 - Modi Hospital Junction",
+      "target": "BTP027 - Modi Bridge Junction"
+    },
+    {
+      "distance_m": 447.7,
+      "weight": 0.002229,
+      "source": "BTP207 - 8th Main Road Basaveshwara Nagar",
+      "target": "BTP208 - Havanur Circle"
+    },
+    {
+      "distance_m": 580.1,
+      "weight": 0.001721,
+      "source": "BTP210 - 50th cross, 12th Main , Rajajinagar",
+      "target": "BTP018 - Dhobi Ghat Junction"
+    },
+    {
+      "distance_m": 237.7,
+      "weight": 0.00419,
+      "source": "BTP210 - 50th cross, 12th Main , Rajajinagar",
+      "target": "BTP061 - Bhashyam Circle"
+    },
+    {
+      "distance_m": 565.8,
+      "weight": 0.001764,
+      "source": "BTP210 - 50th cross, 12th Main , Rajajinagar",
+      "target": "BTP170 - Dr. Bheem Rao Palace, Chord Road"
+    },
+    {
+      "distance_m": 403.4,
+      "weight": 0.002473,
+      "source": "BTP210 - 50th cross, 12th Main , Rajajinagar",
+      "target": "BTP204 - ESI Hospital, Rajajinagar"
+    },
+    {
+      "distance_m": 594.4,
+      "weight": 0.001679,
+      "source": "BTP211 - Central Street Junction",
+      "target": "BTP042 - Minsk Square Junction (CTO)"
+    },
+    {
+      "distance_m": 527.1,
+      "weight": 0.001894,
+      "source": "BTP211 - Central Street Junction",
+      "target": "BTP173 - TMC"
+    },
+    {
+      "distance_m": 571.3,
+      "weight": 0.001747,
+      "source": "BTP212 - Minto Junction",
+      "target": "BTP104 - Medical College Circle"
+    },
+    {
+      "distance_m": 347.2,
+      "weight": 0.002872,
+      "source": "BTP212 - Minto Junction",
+      "target": "BTP213 - Royan Circle"
+    },
+    {
+      "distance_m": 575.0,
+      "weight": 0.001736,
+      "source": "BTP216 - Yediyur Junction",
+      "target": "BTP109 - Dewan Madhava Rao Junction"
+    },
+    {
+      "distance_m": 388.2,
+      "weight": 0.00257,
+      "source": "BTP217 - Baleyele Junction",
+      "target": "BTP212 - Minto Junction"
+    },
+    {
+      "distance_m": 386.8,
+      "weight": 0.002579,
+      "source": "BTP217 - Baleyele Junction",
+      "target": "BTP213 - Royan Circle"
+    },
+    {
+      "distance_m": 536.8,
+      "weight": 0.001859,
+      "source": "BTP219 - Canara Bank Junction",
+      "target": "BTP189 - New Diagonal Road, Jayanagar"
+    },
+    {
+      "distance_m": 388.3,
+      "weight": 0.002569,
+      "source": "BTP219 - Canara Bank Junction",
+      "target": "BTP218 - Syndicate Bank Junction"
+    },
+    {
+      "distance_m": 317.0,
+      "weight": 0.003144,
+      "source": "BTP219 - Canara Bank Junction",
+      "target": "BTP220 - Puttanna Junction"
+    },
+    {
+      "distance_m": 345.2,
+      "weight": 0.002889,
+      "source": "BTP219 - Canara Bank Junction",
+      "target": "BTP225 - Geetha Junction"
+    },
+    {
+      "distance_m": 592.2,
+      "weight": 0.001686,
+      "source": "BTP219 - Canara Bank Junction",
+      "target": "BTP226 - 33rd Cross, 11th Main, Jayanagar"
+    },
+    {
+      "distance_m": 562.6,
+      "weight": 0.001774,
+      "source": "BTP225 - Geetha Junction",
+      "target": "BTP189 - New Diagonal Road, Jayanagar"
+    },
+    {
+      "distance_m": 335.4,
+      "weight": 0.002973,
+      "source": "BTP225 - Geetha Junction",
+      "target": "BTP220 - Puttanna Junction"
+    },
+    {
+      "distance_m": 268.2,
+      "weight": 0.003714,
+      "source": "BTP225 - Geetha Junction",
+      "target": "BTP226 - 33rd Cross, 11th Main, Jayanagar"
+    },
+    {
+      "distance_m": 587.9,
+      "weight": 0.001698,
+      "source": "BTP226 - 33rd Cross, 11th Main, Jayanagar",
+      "target": "BTP189 - New Diagonal Road, Jayanagar"
+    },
+    {
+      "distance_m": 443.9,
+      "weight": 0.002248,
+      "source": "BTP226 - 33rd Cross, 11th Main, Jayanagar",
+      "target": "BTP220 - Puttanna Junction"
+    }
+  ]
+}

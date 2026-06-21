@@ -1,0 +1,310 @@
+{
+  "shifts": [
+    {
+      "day": "Monday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Monday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": true
+    },
+    {
+      "day": "Monday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 2,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Tuesday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Tuesday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": true
+    },
+    {
+      "day": "Tuesday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 2,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Wednesday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Wednesday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": true
+    },
+    {
+      "day": "Wednesday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 2,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Thursday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Thursday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": true
+    },
+    {
+      "day": "Thursday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 2,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Friday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Friday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": true
+    },
+    {
+      "day": "Friday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 2,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Saturday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Saturday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Saturday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 1,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Sunday",
+      "shift": "Morning",
+      "hours": "06:00\u201314:00",
+      "officer_count": 3,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Sunday",
+      "shift": "Afternoon",
+      "hours": "14:00\u201322:00",
+      "officer_count": 4,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction",
+        "BTP156 - Kamakya Junction",
+        "BTP146 - Domlur Water Tank",
+        "BTP122 - Siddapura Junction",
+        "BTP094 - Sri Skanda Complex, Mysore Road",
+        "BTP154 - Itmadu Junction"
+      ],
+      "is_peak": false
+    },
+    {
+      "day": "Sunday",
+      "shift": "Night",
+      "hours": "22:00\u201306:00",
+      "officer_count": 1,
+      "zones_assigned": [
+        "BTP075 - Police Corner",
+        "BTP053 - Three Let Junction",
+        "BTP077 - Halasuru Gate Junction"
+      ],
+      "is_peak": false
+    }
+  ],
+  "summary": {
+    "total_weekly_shifts": 21,
+    "avg_officers_per_shift": 2.9,
+    "peak_coverage_shifts": 5
+  }
+}
