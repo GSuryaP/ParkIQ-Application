@@ -39,13 +39,22 @@ def dk(fig, h=320):
 # ── loaders ───────────────────────────────────────────────────────────
 @st.cache_data(show_spinner=False)
 def load_all():
-    scored  = pd.read_parquet(out("scored.parquet"))
-    stress  = pd.read_parquet(out("junction_stress.parquet"))
-    enf     = pd.read_csv(out("enforcement_priorities.csv"))
-    attr    = pd.read_parquet(out("attribution.parquet"))
-    anomaly = pd.read_parquet(out("anomaly_scores.parquet"))
+    # Load only necessary columns to keep memory under Streamlit Cloud's 1GB limit (~90% memory reduction)
+    cols_s = ['latitude', 'longitude', 'vehicle_type', 'police_station', 'junction_name', 'day_of_week', 'weekend', 'peak_hour', 'hour_ist', 'cis', 'record_id']
+    scored = pd.read_parquet(out("scored.parquet"), columns=cols_s)
+    
+    stress = pd.read_parquet(out("junction_stress.parquet"))
+    enf    = pd.read_csv(out("enforcement_priorities.csv"))
+    
+    cols_attr = ['validation_proba', 'predicted_count', 'congestion_pct', 'top_shap_feature', 'hour_ist', 'police_station', 'vehicle_type']
+    attr = pd.read_parquet(out("attribution.parquet"), columns=cols_attr)
+    
+    cols_anom = ['anomaly_score', 'is_anomaly', 'hour_ist', 'junction_name', 'cis', 'vehicle_type', 'latitude', 'longitude']
+    anomaly = pd.read_parquet(out("anomaly_scores.parquet"), columns=cols_anom)
+    
     repeat  = pd.read_csv(out("repeat_locations.csv"))
     roi     = pd.read_csv(out("roi_report.csv"))
+    
     with open(out("policy_report.json"))  as f: policy   = json.load(f)
     with open(out("spillover_graph.json")) as f: spill   = json.load(f)
     with open(out("shift_schedule.json")) as f: shift    = json.load(f)
