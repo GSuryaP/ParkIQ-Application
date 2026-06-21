@@ -87,11 +87,19 @@ def repeat_hotspot_analysis(df: pd.DataFrame) -> pd.DataFrame:
     agg = agg.sort_values("hotspot_score", ascending=False).reset_index(drop=True)
     agg["hotspot_rank"] = agg.index + 1
 
-    # Tier classification
-    agg["tier"] = pd.cut(agg["hotspot_score"],
-                         bins=[0, 0.3, 0.6, 0.8, 1.01],
-                         labels=["Low", "Medium", "High", "Critical"],
-                         include_lowest=True)
+    # Tier classification — percentile-based so tiers are always meaningful
+    # regardless of the absolute score range in the dataset.
+    # Top 5% = Critical, next 15% = High, next 30% = Medium, rest = Low
+    q95 = agg["hotspot_score"].quantile(0.95)
+    q80 = agg["hotspot_score"].quantile(0.80)
+    q50 = agg["hotspot_score"].quantile(0.50)
+    agg["tier"] = "Low"
+    agg.loc[agg["hotspot_score"] >= q50, "tier"] = "Medium"
+    agg.loc[agg["hotspot_score"] >= q80, "tier"] = "High"
+    agg.loc[agg["hotspot_score"] >= q95, "tier"] = "Critical"
+    agg["tier"] = pd.Categorical(agg["tier"],
+                                 categories=["Low","Medium","High","Critical"],
+                                 ordered=True)
 
     print(f"  {len(agg)} grid cells analysed")
     print(f"  Critical hotspots: {(agg['tier']=='Critical').sum()}")
